@@ -8,18 +8,24 @@ https://www.paypal.com/donate/?hosted_button_id=U23QPP7RCVDHL
 Thank you.
 
 
-Download and install Visual Studio Code.
+---------------------------------------------------------------------------------------------------------------
+Installation.
 
-Open the market_editor_v2.5.py and run it in the terminal. 
+Quick checklist
 
-The program will open. See manual below on how to use it. Thx.
+Have Python 3.8+ installed.
 
+Open the file you just downloaded in VS Code.
 
+Install the Python extension for VS Code (if not already).
 
+Make a virtual environment (recommended) and install Pillow: pip install pillow.
+
+Run the script (Run button, or Run Python File in Terminal) — the GUI window should open.
 
 
 Interface overview
-
+--------------------------------------------------------------------------------------------------------------
 Tabs:
 
 Market Editor — edit market JSON files.
