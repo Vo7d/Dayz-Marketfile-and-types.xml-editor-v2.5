@@ -8,6 +8,15 @@ https://www.paypal.com/donate/?hosted_button_id=U23QPP7RCVDHL
 Thank you.
 
 
+Download and install Visual Studio Code.
+
+Open the market_editor_v2.5.py and run it in the terminal. 
+
+The program will open. See manual below on how to use it. Thx.
+
+
+
+
 
 Interface overview
 
